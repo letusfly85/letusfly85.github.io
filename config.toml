@@ -1,0 +1,5 @@
+baseURL = "https://letusfly85.github.io/"
+languageCode = "en-us"
+title = "Wonder Soft"
+theme = "anybodyhome"
+canonifyurls = true
