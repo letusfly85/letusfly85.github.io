@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wonder Soft on Wonder Soft</title>
-    <link>https://letusfly85.github.io/</link>
-    <description>Recent content in Wonder Soft on Wonder Soft</description>
+    <title>Posts on Wonder Soft</title>
+    <link>https://letusfly85.github.io/post/</link>
+    <description>Recent content in Posts on Wonder Soft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Aug 2017 23:17:14 +0900</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Initial Post</title>
